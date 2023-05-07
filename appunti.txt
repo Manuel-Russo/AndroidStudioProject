@@ -1,0 +1,6 @@
+manifest: caratteristiche principale dell'applicazione(carta di presentazione)
+padding: spazio tra contenuto e contenitore
+adapter: serve per trasformare da programmazione a visualizzazione
+getItem: prende un elemento di indice i, attraverso un layout fa inflating e li mette nella lista
+programmazioni asincorna: i dati so quando li mando ma non so quando ritornano
+Snapshot: il tipo di dato che scarico, 
