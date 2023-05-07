@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950724918886",
+    "firebase_url": "https://bargabrach-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bargabrach",
+    "storage_bucket": "bargabrach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950724918886:android:b77b42e1b22173ff84b7a7",
+        "android_client_info": {
+          "package_name": "com.example.gabrach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950724918886-tckqnd7o2psqadpuoe6122b7tn0ahf4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Zhtzyqxnrqvgpq21wK1iWVmnDVYr-og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950724918886-tckqnd7o2psqadpuoe6122b7tn0ahf4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

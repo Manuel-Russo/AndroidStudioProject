@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gabrach</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="piu">+</string>
+    <string name="meno">-</string>
+    <string name="uno_euro">1€</string>
+    <string name="unpz">1 pz</string>
+    <string name="i_nostri_prodotti">I NOSTRI PRODOTTI</string>
+</resources>
